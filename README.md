@@ -3,6 +3,7 @@ This project, Classification of Iris Flowers and Handwritten Numbers, was develo
 
 ## Project Description
 The project consists of two primary tasks:
+
 Iris Task:
 - Utilizing the Fisher Iris dataset, a linear classifier was developed to distinguish between three species of iris flowers: Setosa, Versicolor, and Virginica.
 - The classifier's performance was evaluated based on different feature combinations and decision boundaries.
